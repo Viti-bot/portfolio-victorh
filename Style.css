@@ -5,7 +5,7 @@
 
 hmtl, body {
     height: 100vh;
-    background: rgb(90, 90, 90);
+    background: rgb(0, 0, 0);
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -81,7 +81,7 @@ hmtl, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #ff5500;
+    border: 2px solid #AA0000;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -100,7 +100,7 @@ hmtl, body {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, transparent, #ff5500);
+    background: linear-gradient(45deg, transparent, #AA0000);
     transition: 0.5s;
 }
 
@@ -127,7 +127,7 @@ hmtl, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #3700ff;
+    border: 2px solid #AA0000;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -146,7 +146,7 @@ hmtl, body {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, transparent, #4800ff);
+    background: linear-gradient(45deg, transparent, #AA0000);
     transition: 0.5s;
 }
 
@@ -173,7 +173,7 @@ hmtl, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #383838;
+    border: 2px solid #AA0000;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -192,7 +192,7 @@ hmtl, body {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, transparent, #383838);
+    background: linear-gradient(45deg, transparent, #AA0000);
     transition: 0.5s;
 }
 
@@ -219,7 +219,7 @@ hmtl, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #00ff22;
+    border: 2px solid #AA0000;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -238,7 +238,7 @@ hmtl, body {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, transparent, #00ff22);
+    background: linear-gradient(45deg, transparent, #AA0000);
     transition: 0.5s;
 }
 
@@ -265,7 +265,7 @@ hmtl, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 2px solid #ff00b3;
+    border: 2px solid #AA0000;
     border-radius: 50px;
     font-size: 36px;
     padding: 15px 0;
@@ -284,7 +284,7 @@ hmtl, body {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(45deg, transparent, #ff00b3);
+    background: linear-gradient(45deg, transparent,   #AA0000);
     transition: 0.5s;
 }
 
@@ -301,5 +301,5 @@ hmtl, body {
 }
 
 .colorido {
-    color: #3c3c3c;
+    color: #AA0000;
 }
